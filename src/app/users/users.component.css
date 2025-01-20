@@ -1,0 +1,39 @@
+.container{
+  margin-top: 40px;
+}
+
+input.ng-invalid.ng-touched{
+  border: 1px solid red;
+}
+.changebackground{
+  background-color: #008000;
+}
+.button-row {
+  display: flex;
+  gap: 30px; /* increased space between buttons */
+  margin-top: 20px; /* space above the button row */
+}
+.btn {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  color: white;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: white;
+}
+.btn-success {
+  background-color: #008000;
+  color: white;
+}

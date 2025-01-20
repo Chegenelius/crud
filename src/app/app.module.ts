@@ -5,7 +5,6 @@ import { HttpClientModule} from "@angular/common/http";
 import {EditComponent} from "./edit/edit.component";
 import {RouterModule} from "@angular/router";
 import {routes} from "./app.routes";
-import {AppComponent} from "./app.component";
 
 
 @NgModule({
