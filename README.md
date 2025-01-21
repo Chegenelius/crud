@@ -1,6 +1,6 @@
 # crudApp
 # About:
-This is submit form that implements CRUD functionalities. It uses mysql database and local API.
+This is login form that takes username, email and password as inputs. It implements CRUD functionalities that is Adding a user, Viewing the user details, Updating and also Delete. It stores data in mysql database and local API.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
